@@ -6,3 +6,4 @@
 
 ## 微信
 - [官方在线文档](https://developers.e.qq.com/docs)
+- [投放指南](https://ad.weixin.qq.com/guide/152)
